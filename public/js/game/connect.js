@@ -20,10 +20,12 @@ function Connect(){
 		});
 		
 		socket.on('connect_init_nok',function(){
+			console.log("Connecting/......")
 			location.href = '/';
 		});
 		
 		socket.on('connect_init_ok_ready_quiz',function(){
+			console.log("Connecting....")
 			location.href = '/quiz.html';
 		});
 		

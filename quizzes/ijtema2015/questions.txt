@@ -1,4 +1,4 @@
-title Quiz National Ijtima 2015
+title Quiz National Ijtima 2015 UPDATE
 img ijtema_2015.png
 admincode admin1337*
 quizcode ijtema4321
